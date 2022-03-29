@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuldok.PatternMatch.Api", "Tuldok.PatternMatch.Api\Tuldok.PatternMatch.Api.csproj", "{6A27D4DD-BE6B-4154-8920-D347142E6433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuldok.PatternMatch.Service", "Tuldok.PatternMatch.Service\Tuldok.PatternMatch.Service.csproj", "{BAB35329-2375-4F40-90E7-237F6277173F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuldok.PatternMatch.Test", "Tuldok.PatternMatch.Test\Tuldok.PatternMatch.Test.csproj", "{A7918641-2409-44A3-8C83-042EFF75ED96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A27D4DD-BE6B-4154-8920-D347142E6433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A27D4DD-BE6B-4154-8920-D347142E6433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A27D4DD-BE6B-4154-8920-D347142E6433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A27D4DD-BE6B-4154-8920-D347142E6433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB35329-2375-4F40-90E7-237F6277173F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB35329-2375-4F40-90E7-237F6277173F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB35329-2375-4F40-90E7-237F6277173F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB35329-2375-4F40-90E7-237F6277173F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7918641-2409-44A3-8C83-042EFF75ED96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7918641-2409-44A3-8C83-042EFF75ED96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7918641-2409-44A3-8C83-042EFF75ED96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7918641-2409-44A3-8C83-042EFF75ED96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09AEEE5F-08A6-455E-860A-58E2B2A3510B}
+	EndGlobalSection
+EndGlobal
